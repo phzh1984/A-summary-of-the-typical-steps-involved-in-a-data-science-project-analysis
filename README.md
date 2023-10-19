@@ -1,4 +1,4 @@
-# A-summary-of-the-typical-steps-involved-in-a-data-science-project-analysis
+# The-typical-steps-involved-in-a-data-science-project-analysis
 
 Problem Definition: Clearly define the problem or question you aim to address. Understand the project's objectives, constraints, and scope.
 
